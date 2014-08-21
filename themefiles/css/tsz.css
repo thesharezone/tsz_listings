@@ -1,0 +1,20 @@
+.message-response {
+	border: 1px solid; padding: 3px 10px; margin: 0 0 20px 0;
+}
+
+.success {
+	color: #24890d;
+}
+
+.error {
+	color: red;
+}
+
+.calendar {
+	width: 470px;
+}
+
+.site-header, .site:before, .site-footer, #secondary {
+	background-color: #312030; /*38202e*/
+}
+
